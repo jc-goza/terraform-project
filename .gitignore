@@ -7,3 +7,9 @@
 
 # .tfvars files
 *.tfvars
+
+# IntelliJ Idea
+*.idea
+
+# Mac file
+.DS_Store
